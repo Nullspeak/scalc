@@ -1,0 +1,7 @@
+scalc - Simple Calculator
+
+My first foray into parsing and evaluating, a simple commandline calculator that currently supports addition, subtraction, multiplication and division on double floats.
+In the future I'd like to implement an int type along with some bitwise logic, paren processing for scopes, and support for more than 1 operation.
+For now though, this is just a toy to play with. It's written in C89/C90 and passes GCC 9.3.0 in pedantic mode with -Wall and -Wextra with no messages.
+
+This code is under the BSD 0-clause license. See the COPYING file for more info.
